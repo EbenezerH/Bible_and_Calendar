@@ -15,7 +15,7 @@ Une application pratique pour lire la Bible et suivre un calendrier de lecture b
 
 1. Assurez-vous d'avoir Flutter et Dart installés sur votre machine. Vous pouvez trouver les instructions d'installation de Flutter [ici](https://flutter.dev/docs/get-started/install).
 2. Clonez ce dépôt sur votre machine locale en utilisant la commande suivante :
-    git clone https://github.com/votre-nom-utilisateur/votre-depot.git
+    git clone [https://github.com/EbenezerH/Bible_and_Calendar.git](https://github.com/EbenezerH/Bible_and_Calendar.git)
 3. Accédez au répertoire du projet : `cd votre-depot`
 4. Installez les dépendances requises en exécutant la commande suivante :
 5. Lancez l'application sur un émulateur ou un appareil connecté en utilisant la commande suivante : `flutter run`
