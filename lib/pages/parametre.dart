@@ -447,11 +447,11 @@ class _ParametreState extends State<Parametre> {
     //formatedTest.add(TextSpan(text: text));
     if (text2index != -1) {
       formatedTest
-          .add(TextSpan(text: text, style: TextStyle(color: Colors.red)));
+          .add(TextSpan(text: text, style: const TextStyle(color: Colors.red)));
     } else {
       formatedTest.add(TextSpan(text: text));
     }
-    print(text2index);
+    debugPrint(text2index.toString());
 
     return formatedTest;
   }

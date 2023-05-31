@@ -222,7 +222,7 @@ class _BibleState extends State<Bible> {
       formatedTest.add(TextSpan(text: text));
       //continueMarkdownColor = false;
     }
-    print(text2index);
+    debugPrint(text2index.toString());
 
     return formatedTest;
   }
