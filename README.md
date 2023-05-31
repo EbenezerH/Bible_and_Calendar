@@ -1,7 +1,8 @@
 # Application de la Bible avec Calendrier de Lecture Biblique
 
 Une application pratique pour lire la Bible et suivre un calendrier de lecture biblique.
-![Capture d'écran de l'application](assets/images/demo/accueil.png)
+
+![Capture d'écran de l'application](assets/images/demo/accueil.png)!    [Capture d'écran de l'application](assets/images/demo/parametre_th_sombre.png)
 
 ## Fonctionnalités principales
 
